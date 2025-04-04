@@ -107,9 +107,9 @@ protobuf==5.29.2 \
     --hash=sha256:e621a98c0201a7c8afe89d9646859859be97cb22b8bf1d8eacfd90d5bda2eb19 \
     --hash=sha256:fde4554c0e578a5a0bcc9a276339594848d1e89f9ea47b4427c80e5d72f90181
     # via ddtrace
-typing-extensions==4.12.2 \
-    --hash=sha256:04e5ca0351e0f3f85c6853954072df659d0d13fac324d0072316b67d7794700d \
-    --hash=sha256:1a7ead55c7e559dd4dee8856e3a88b41225abfe1ce8df57b7c13915fe121ffb8
+typing-extensions==4.13.1 \
+    --hash=sha256:4b6cf02909eb5495cfbc3f6e8fd49217e6cc7944e145cdda8caa3734777f9e69 \
+    --hash=sha256:98795af00fb9640edec5b8e31fc647597b4691f099ad75f469a2616be1a76dff
     # via ddtrace
 wrapt==1.17.0 \
     --hash=sha256:0229b247b0fc7dee0d36176cbb79dbaf2a9eb7ecc50ec3121f40ef443155fb1d \
